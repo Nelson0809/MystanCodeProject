@@ -1,6 +1,6 @@
 """
 File: PotholeFilling.py
-Name: Nelson
+Name: Nelson Chen
 --------------------------
 This program shows karel filling 3
 potholes. Students learn the concept of
