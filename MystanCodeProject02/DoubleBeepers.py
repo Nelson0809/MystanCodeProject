@@ -1,6 +1,6 @@
 """
 File: DoubleBeepers.py
-Name:
+Name:Nelson Chen
 -------------------------------
 TODO:
 """
