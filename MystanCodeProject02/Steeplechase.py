@@ -1,6 +1,6 @@
 """
 File: Steeplechase.py
-Name: Nelson
+Name: Nelson Chen
 ---------------------------------
 Nelson
 """
