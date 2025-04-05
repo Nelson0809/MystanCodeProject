@@ -1,6 +1,6 @@
 """
 File: StepUp.py
-Name: Answer
+Name: Nelson Chen
 ------------------------
 This file shows Karel picking up 
 the beeper at Street 1 Avenue 2,
